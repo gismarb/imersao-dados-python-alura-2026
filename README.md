@@ -8,6 +8,8 @@
 
 Projeto desenvolvido durante o **Bootcamp Imersão Dados com Python 2026**, promovido pela **Alura**, com foco em **análise, exploração e visualização de dados**, utilizando Python e ferramentas do ecossistema de Data Science.
 
+![Dashboard hospedado no Streamlit](./dashboard.png "Dashbord hospedado no Streamlit")
+
 🔗 **Aplicação online (Streamlit):**  
 👉 https://gismarb-imersao-dados-python-alura-2026.streamlit.app/
 
@@ -64,4 +66,5 @@ imersao-dados-python-alura-2026/
 ├── CHANGELOG.md
 ├── LICENSE
 └── README.md
+└── dashboard.png
 ```
